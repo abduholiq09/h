@@ -1,0 +1,92 @@
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-bottom: 1px solid gray;
+    height: 120px;
+}
+.boxo{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.bir{
+    width: 650px;
+    height: 786px;
+    border: 2px solid gray;
+   margin: 0 auto;
+    border-radius: 50px;
+
+    
+    
+    
+}
+.f{
+    display: flex;
+    align-items: center;
+}
+.d{
+    color: blue;
+    text-align: center;
+    margin-top: 100px;
+}
+.h{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: orangered;
+}
+.biir{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+.e{
+  display: flex;
+  margin-left: 50px;
+  width: 533px;
+   height: 70px;
+   border-radius: 10px;
+   border: 1px solid black;
+
+}
+.r{
+    display: flex;
+  margin-left: 50px;
+  width: 533px;
+   height: 70px;
+   border-radius: 10px;
+   border: 1px solid black;
+   margin-top: 10px;
+    
+}
+.t{
+    color: gray;
+}
+.e:focus{
+   background-color: rgb(255, 255, 255);
+   border: 1px solid orangered;
+}
+.r:focus{
+    background-color: rgb(255, 255, 255);
+   border: 1px solid orangered;
+}
+a{
+   display: flex;
+    text-decoration: none;
+    color: black;
+    margin-top: 20px;
+   margin-left: 250px;
+}
+button{
+    background: #F69E86;
+    width: 202px;
+    height: 67px;
+    border: none;
+    border-radius: 50px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   margin-left: 400px;
+}
